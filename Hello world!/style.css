@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    width: 95%;
+    color: black;
+    font-family: 'Arial', sans-serif;
+}
+.conteiner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: auto;
+    right: auto;
+    background-color: #939393;
+    width:  2.048px;
+    height: 1.152px;
+}

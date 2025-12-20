@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: white;
+    width: 475px;
+    height: 300px;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+}
+button{
+    cursor: pointer;
+    border-radius: 20px;
+}
+h1:hover{
+    background-color: grey;
+    transition: 0.5s;
+}
+p{
+    text-indent: 20px;
+    transition: 0.5s;
+}
